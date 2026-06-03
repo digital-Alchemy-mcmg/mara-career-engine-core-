@@ -1,11 +1,12 @@
-<div align="center">
+# MARA Career Engine Core
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+## System Overview
+This repository serves as the persistent **Source of Truth** and the foundational skeleton for the MARA ecosystem. It provides the architectural boundaries, versioning, and state management required for long-term execution. 
 
-  <h1>Built with AI Studio</h2>
+We strictly enforce the MARA Doctrine of Truth (v1.0).
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Doctrine Links
+- [MARA Doctrine](./00_GOVERNANCE_AND_DOCTRINE/MARA_DOCTRINE.md)
+- [Execution Roadmap](./01_ARCHITECTURE_AND_SPECS/FOUNDATION_EXECUTION_ROADMAP.md)
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+This repository is actively safeguarded by the MARA Career Engine Repository Guardian.
